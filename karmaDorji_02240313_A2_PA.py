@@ -255,6 +255,7 @@ class GameCenter:
                 self.overall_score()
             elif option == 0:
                 print("Exiting the program.")
+                print("Good bye")
                 break
             else:
                 print("Invalid choice.")
