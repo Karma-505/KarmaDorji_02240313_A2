@@ -111,7 +111,3 @@ class Binder:
             else:
                 print("Invalid option. Please try again.")
 
-
-if __name__ == "__main__":
-    binding = Binder()
-    binding.run()
